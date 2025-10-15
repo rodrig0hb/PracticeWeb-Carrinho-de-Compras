@@ -42,3 +42,9 @@ Além da lógica central proposta no curso, foi implementada uma verificação c
 * `style.css`: Estilos globais e de layout.
 * `js/app.js`: Código JavaScript que contém a lógica do carrinho.
 * `assets/`: Contém a imagem utilizada no projeto.
+
+<br>
+
+💡 Como Executar
+* Basta abrir o arquivo index.html em qualquer navegador web para testar a aplicação.
+* Ou utilize o link: [Vercel](https://practice-web-carrinho-de-compras.vercel.app/)
